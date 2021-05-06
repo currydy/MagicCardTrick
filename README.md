@@ -4,3 +4,4 @@ use ```pip install```
 - gTTS
 - SpeechRecognition
 - pillow
+- playsound
